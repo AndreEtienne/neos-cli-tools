@@ -2,7 +2,7 @@
 	"name": "cron/neos-cli-tools",
 	"type": "neos-package",
 	"require": {
-		"neos/neos": "~4.0"
+		"neos/neos": "*"
 	},
 	"license": "proprietary",
 	"description": "CLI Content Repository related utilities (previously part of CRLib)",
